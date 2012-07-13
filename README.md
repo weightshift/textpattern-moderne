@@ -39,7 +39,9 @@ Notes/Caveats:
 
 3) There are some things I'd like to tweak more — positioning, a few more styles, but this is a good start.
 
-4) Caveat emptor! But enjoy!
+4) The design uses Proxima Nova and looks great in that if you have it. Otherwise, it defaults to Helvetica Neue, Helvetica, Arial and then whatever sans.
+
+5) Caveat emptor! But enjoy!
 
 Please do let me know if you dig it.
 

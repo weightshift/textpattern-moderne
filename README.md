@@ -3,9 +3,11 @@ textpattern-moderne
 
 A simple, clean, CSS-styled and modified theme that cleans up the cruft and brings TXP into the modern age.  
 
-As TXP users know, the admin has existed in its current state since the original days when Dean Allen originally created Textpattern. While it's still pretty good, it's certainly showing some of its age.
+As TXP users know, the admin has existed in its current state since the original days when Dean Allen originally created Textpattern. While it's still pretty good, it's certainly showing some of its age. 
 
 I've grown tired, and a little weary, of the default theme and so, spent a bit of time overwriting and cleaning up the admin to bring it up to a clean, modern feel.
+
+I've seen and been informed that TXP 4.5 will bring TXP into not only a modern age, but also a responsive one and that's fantastic. In the interim for versions 4.4.1 and below, you can use this. 
 
 You can see screenshots of it here:
 

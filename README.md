@@ -10,12 +10,14 @@ I've grown tired, and a little weary, of the default theme and so, spent a bit o
 You can see screenshots of it here:
 
 http://cl.ly/091i1I161y1d372U0m32
+
 http://cl.ly/0i142b1k1E2S332Q3v3a
 
 How to Install:
 ===============
 
 1) Clone/download the files. 
+
 2) Login to your server and navigate to where your Textpattern install resides and then:
 
 textpattern > theme > classic

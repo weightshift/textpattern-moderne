@@ -1,7 +1,7 @@
 textpattern-moderne
 ===================
 
-This version packages the Textpattern Moderne Admin theme from Weightshift (https://github.com/weightshift/textpattern-moderne) into a ready to install theme for Textpattern users, without having to overwrite the Classic theme.
+The current version packages jstubb's work (https://github.com/jstubbs/textpattern-moderne) as a Textpattern Admin theme proper based on the original from Weightshift (https://github.com/weightshift/textpattern-moderne) into a ready to install theme for Textpattern users, without having to overwrite the Classic theme.
 
 How to Install:
 ===============
@@ -22,3 +22,4 @@ Credits:
 ==============
 
 Design by Naz Hamid, @weightshift
+Theme conversion by Jonathan Stubbs, @jonathanstubbs
